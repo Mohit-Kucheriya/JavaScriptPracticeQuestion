@@ -1,0 +1,16 @@
+Qs 1.
+Write a function to ckeck whether an 'input' is an array or not.
+
+Qs2.
+Write a JavaScript function to clone an array.
+
+Qs3.
+Write a JavaScript function to get first element of an array. Passing a parameter 'n' will return the first 'n' elements of the array.
+
+ Q4.
+ Write a simple JavaScript program to join all elements of the folllowing array into a string.
+
+ Qs7.
+ Diffference between var, let
+ var : es5, function scoped (i.e. available anywhere inside the function), it's get add to window.
+ let : es6, braces scope (i.e. to its nearest bracket only) , doesn't add to window.
