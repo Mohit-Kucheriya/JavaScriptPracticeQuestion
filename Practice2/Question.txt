@@ -1,0 +1,14 @@
+map : map is just like foreach just in addition it accept return key in it and form an imginary array and after the completion of the code return that array to us which we can save in variable.
+
+Qs1.
+Make a new array by the existig array & check the word length if word length is equal to 5 put them in p tag and all else in span tag.
+
+filter :  filter structure is exactly like map, its also return the value but the value is in the boolean context and then gets store in new array.
+
+
+iife : immediately invoked function expression.
+function expression which is immediately called as its created
+anonymous function involved with parenthesis and called immediately i.e. (function(){})()
+Interview  :  then why we are making at first?
+Answer :  to create private variable ,but we won't be able to access them so we have to write such code inside that 
+function so that we can access the that variable and also change it. We simply use getter and setter function to get the value & set the value.
