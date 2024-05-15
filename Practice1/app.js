@@ -41,6 +41,7 @@ console.log(color(["red", "pink", "blue", "green", "violet"]));
 var obj1 = {}; //1st
 let obj2 = Object.create(null); //2nd
 
+// we can create obj using new keyword.
 function abcd() {
   this.name = "Mohit";
 }
